@@ -16,6 +16,7 @@
 		9C3ADC9926C2534600D7543E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3ADC9826C2534600D7543E /* Constants.swift */; };
 		9C3ADC9B26C2569D00D7543E /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3ADC9A26C2569D00D7543E /* Video.swift */; };
 		9C3ADC9D26C2572400D7543E /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3ADC9C26C2572400D7543E /* Model.swift */; };
+		9CE3B07C26E662D4002D80FD /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CE3B07B26E662D4002D80FD /* ConstantsTemplate.swift */; };
 		9CEEAC3B26DF5C14005917B4 /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEEAC3A26DF5C14005917B4 /* Response.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		9C3ADC9826C2534600D7543E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		9C3ADC9A26C2569D00D7543E /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		9C3ADC9C26C2572400D7543E /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		9CE3B07B26E662D4002D80FD /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 		9CEEAC3A26DF5C14005917B4 /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +74,7 @@
 				9C0F723C26B2554100B5F83D /* LaunchScreen.storyboard */,
 				9C0F723F26B2554100B5F83D /* Info.plist */,
 				9C3ADC9826C2534600D7543E /* Constants.swift */,
+				9CE3B07B26E662D4002D80FD /* ConstantsTemplate.swift */,
 				9C3ADC9A26C2569D00D7543E /* Video.swift */,
 				9C3ADC9C26C2572400D7543E /* Model.swift */,
 				9CEEAC3A26DF5C14005917B4 /* Response.swift */,
@@ -152,6 +155,7 @@
 				9C0F723626B2553F00B5F83D /* ViewController.swift in Sources */,
 				9C0F723226B2553F00B5F83D /* AppDelegate.swift in Sources */,
 				9C0F723426B2553F00B5F83D /* SceneDelegate.swift in Sources */,
+				9CE3B07C26E662D4002D80FD /* ConstantsTemplate.swift in Sources */,
 				9C3ADC9D26C2572400D7543E /* Model.swift in Sources */,
 				9C3ADC9926C2534600D7543E /* Constants.swift in Sources */,
 				9C3ADC9B26C2569D00D7543E /* Video.swift in Sources */,
